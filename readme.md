@@ -1,7 +1,7 @@
 # Visualize Data with Python
 You can use either google colab or just use your own jupyter instance to run the notebooks. Following steps are shown if you are going to use Google Colab.
 
-**Nice to have:**
+## Nice to have
 
 If you are using Google Chrome, consider installing this add-on [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo).
 

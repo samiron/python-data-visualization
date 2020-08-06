@@ -1,10 +1,18 @@
-# Topics:
+# Topics
 * [Start off](#start-off)
+* [Contents](#contents)
 * [Contribute](#contribute)
 
 
 # Visualize Data with Python
 You can use either google colab or just use your own jupyter instance to run the notebooks. Following steps are shown if you are going to use Google Colab.
+
+## Prerequisite
+You must be familiar with computer programming concept. Being familiar with python is an advantage but not strictly required. 
+
+## Contents
+
+**`python-basics`:** The notebooks in this folder is to give a quick brush up on common python syntax. If you are not familiar with python already its encouraged to start from here.
 
 ## Start off
 Based on how you want to proceed, click any of the following options:

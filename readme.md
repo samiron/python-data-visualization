@@ -9,7 +9,13 @@ Based on how you want to proceed, click any of the following options:
 
 ### Just want to try for once
 
-### I will start from here but do not want the updates
+**In Google Colab**
+* Just open http://colab.research.google.com/github/samiron/python-data-visualization.
+* Select the ipynb file you want to try out.
+
+**In your computer**
+* Just clone the repository or download the project from GitHub.com
+* Play around with the ipynb file.
 
 ### I will start from here and want to receive any further updates
 
@@ -34,10 +40,14 @@ Based on how you want to proceed, click any of the following options:
 
 **Pull updates from parent**
 * You will need to create a pull request from parent to your repository. For instance, `samiron/python-data-visualization` **->** `YOUR_NAME/python-data-visualization`
-* 
+* Following gif gives a quick demonstration how to do it. Courtesy: [Article from earthdatascience.org](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/)
+
+![](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-reverse-pull-request.gif)
+
+## Contribute!
+Glad to hear if you are interested to enrich this project. This project is in very initial state at this point. WIll update soon how you can contribute here. 
 
 ## Quick tips
 If you are using Google Chrome, consider installing this add-on [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo).
 
-### Open notebook with add-on
 
